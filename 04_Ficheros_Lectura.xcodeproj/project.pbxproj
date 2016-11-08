@@ -15,6 +15,7 @@
 		FB7FC1721DD06D44003907AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB7FC1701DD06D44003907AC /* LaunchScreen.storyboard */; };
 		FB7FC17D1DD06D44003907AC /* _4_Ficheros_LecturaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7FC17C1DD06D44003907AC /* _4_Ficheros_LecturaTests.m */; };
 		FB7FC1881DD06D44003907AC /* _4_Ficheros_LecturaUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7FC1871DD06D44003907AC /* _4_Ficheros_LecturaUITests.m */; };
+		FB7FC1961DD06E6C003907AC /* DatosPersonales.plist in Resources */ = {isa = PBXBuildFile; fileRef = FB7FC1951DD06E6C003907AC /* DatosPersonales.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		FB7FC1831DD06D44003907AC /* 04_Ficheros_LecturaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 04_Ficheros_LecturaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB7FC1871DD06D44003907AC /* _4_Ficheros_LecturaUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _4_Ficheros_LecturaUITests.m; sourceTree = "<group>"; };
 		FB7FC1891DD06D44003907AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB7FC1951DD06E6C003907AC /* DatosPersonales.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DatosPersonales.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		FB7FC1561DD06D44003907AC = {
 			isa = PBXGroup;
 			children = (
+				FB7FC1951DD06E6C003907AC /* DatosPersonales.plist */,
 				FB7FC1611DD06D44003907AC /* 04_Ficheros_Lectura */,
 				FB7FC17B1DD06D44003907AC /* 04_Ficheros_LecturaTests */,
 				FB7FC1861DD06D44003907AC /* 04_Ficheros_LecturaUITests */,
@@ -245,6 +248,7 @@
 			files = (
 				FB7FC1721DD06D44003907AC /* LaunchScreen.storyboard in Resources */,
 				FB7FC16F1DD06D44003907AC /* Assets.xcassets in Resources */,
+				FB7FC1961DD06E6C003907AC /* DatosPersonales.plist in Resources */,
 				FB7FC16D1DD06D44003907AC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

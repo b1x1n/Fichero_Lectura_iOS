@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nombre</key>
+	<string>Veronica</string>
+	<key>apellidos</key>
+	<string>Cabeza Cabeza</string>
+	<key>edad</key>
+	<integer>31</integer>
+	<key>fecha de nacimiento</key>
+	<date>2016-04-26T07:12:35Z</date>
+	<key>direccion</key>
+	<array>
+		<string>Velazquez 34</string>
+		<string>Moraleja 134</string>
+		<string>Castellana 83</string>
+		<string>Serrano 190</string>
+	</array>
+</dict>
+</plist>
